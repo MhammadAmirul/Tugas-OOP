@@ -5,7 +5,7 @@
 <h2>Documentation</h2>
 
 <ol>
-  <li>create this project</li>
+  <li>Create this project</li>
   <li>Install node module</li>
   <li>Run index.js</li>
 </ol>
